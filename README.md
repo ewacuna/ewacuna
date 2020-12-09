@@ -10,6 +10,7 @@
 - JavaScript
 - HTML & CSS
 - React
+- Angular
 - Node.js
 - C#
 - English & Spanish
