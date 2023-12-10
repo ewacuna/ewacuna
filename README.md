@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Elvin :rocket:
 
-<!--
-**ewacuna/ewacuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Elvin_Acuña-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/elvinacuna)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-@ewacuna-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/ewacuna)
 
-Here are some ideas to get you started:
+Software engineer :wave: with a strong focus on clean code and best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ```js
+const elvin = {
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Sass", "PHP"],
+  technologies: {
+    frontend: ["React", "Redux", "Angular", "Ionic", "Cypress"],
+    backend: ["Node.js", "Express.js", "Sails.js", "MongoDB"],
+  }
+};
+```
