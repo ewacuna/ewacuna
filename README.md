@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-    <strong>Software engineer</strong> 👋 with a strong focus on clean code and best practices.
+    <strong>Software Developer</strong> 👋 with a strong focus on clean code and best practices.
 </p>
 
 ## ⚡Languages and Tools
