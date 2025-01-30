@@ -7,8 +7,3 @@
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.scss`, `.json`, `.php`, `.rs`
 - 🌍 I'm mostly active within the **Angular Community**
 - 💜 Open Source Software
-
-Let's connect and build the future together! 🌟
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvinacuna/)](https://www.linkedin.com/in/elvinacuna/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=X&logoColor=white&link=https://x.com/ewacuna/)](https://x.com/ewacuna/)
